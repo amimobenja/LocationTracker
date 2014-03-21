@@ -3,6 +3,8 @@ LocationTracker
 
 An android app the enable you to track the location of a loved one through the use of SMS. 
 
+https://play.google.com/store/apps/details?id=com.amimobenja.locationtracker&hl=en
+
 HOW IT WORKS
 =============
 1. Once the app has been installed into an Android Phone of your loved on, you can be able to send an SMS to that phone with a secreat word.
